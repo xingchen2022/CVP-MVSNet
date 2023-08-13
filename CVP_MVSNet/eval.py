@@ -1,7 +1,6 @@
 # Evaluate CVP-MVSNet
 # by: Jiayu Yang
 # date: 2019-08-29
-#test
 
 import os,sys,time,logging,argparse,datetime,re
 

@@ -24,7 +24,7 @@ python3 eval.py \
 --nsrc=4 \
 --nscale=5 \
 \
---batch_size=4 \
+--batch_size=1 \
 \
 --loadckpt=$LOAD_CKPT_DIR \
 --logckptdir=$CKPT_DIR \
